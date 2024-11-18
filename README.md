@@ -1,2 +1,2 @@
-#This is my repo which is local
+# This is my local repo
 
